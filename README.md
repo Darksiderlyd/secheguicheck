@@ -5,7 +5,7 @@ check_module.apk
 # 三.检测流程
 https://blog.csdn.net/wang_yong_hui_1234/article/details/125087621
 
-1. 安装 VirtrulXposed.apk (VirtualXposed_0.20.3-64.apk 64位 推荐，VirtualXposed_0.18.2-x86.apk 32位 其他VirtualXposed_0.22.0-Android12.apk支持Android 12)
+1. 安装 VirtrulXposed.apk (VirtualXposed_0.20.3-64.apk 64位 推荐(问题比较少)，VirtualXposed_0.18.2-x86.apk 32位(问题比较少) 其他VirtualXposed_0.22.0-Android12.apk支持Android 12(低版本手机安装App会崩溃))
 2. 安装check_module.apk和需要检测的apk
 3. 打开进入VirtrulXposed，点击底部白色按钮，点击列表中“添加应用”，添加check_module.apk和需要检测的apk
 4. 点击“模块管理”勾选安装的模块 check_module，（可选步骤：可以杀死VirtrulXposed虚拟机重新打开）
